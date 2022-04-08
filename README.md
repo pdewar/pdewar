@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Im Peter Dewar👋
 
 <!--
 **pdewar/pdewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
